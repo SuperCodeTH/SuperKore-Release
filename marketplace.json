@@ -17,5 +17,14 @@
     "servers": ["ทุกเซิร์ฟเวอร์"],
     "description": "ตัวอย่างชุดปลั๊กอินเสริมสำหรับ SuperKore ขณะนี้ยังไม่พร้อมให้ดาวน์โหลด",
     "available": false
+  }, {
+    "id": "agent-handoff-marketplace-github",
+    "name": "เอกสาร Handoff: Marketplace และ GitHub",
+    "type": "docs",
+    "version": "0.1.0",
+    "servers": ["ทีมพัฒนา SuperKore"],
+    "description": "เอกสารรับช่วงพัฒนาต่อ Marketplace และการเผยแพร่บน GitHub (ต่อจาก v0.3.0) อยู่ในช่วงทดสอบ ยังไม่พร้อมให้ดาวน์โหลด",
+    "status": "อยู่ในช่วงทดสอบ",
+    "available": false
   }]
 }
