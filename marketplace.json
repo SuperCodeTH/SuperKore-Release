@@ -18,13 +18,13 @@
     "description": "ตัวอย่างชุดปลั๊กอินเสริมสำหรับ SuperKore ขณะนี้ยังไม่พร้อมให้ดาวน์โหลด",
     "available": false
   }, {
-    "id": "agent-handoff-marketplace-github",
-    "name": "เอกสาร Handoff: Marketplace และ GitHub",
-    "type": "docs",
-    "version": "0.1.0",
-    "servers": ["ทีมพัฒนา SuperKore"],
-    "description": "เอกสารรับช่วงพัฒนาต่อ Marketplace และการเผยแพร่บน GitHub (ต่อจาก v0.3.0) อยู่ในช่วงทดสอบ ยังไม่พร้อมให้ดาวน์โหลด",
-    "status": "อยู่ในช่วงทดสอบ",
-    "available": false
+    "id": "vpnrotate",
+    "name": "vpnrotate - VPN Rotation Plugin",
+    "type": "plugin",
+    "version": "1.0.0",
+    "servers": ["ทุกเซิร์ฟเวอร์"],
+    "description": "ปลั้กอินสลับ IP ผ่าน VPN เพื่อเลี่ยงข้อจำกัดจำนวนไอดีต่อ IP (เช่น 3 ไอดี/1 IP) รองรับ OpenVPN management interface และคำสั่งสลับ VPN ภายนอก พร้อมคู่มือภาษาไทย",
+    "url": "https://github.com/SuperCodeTH/SuperKore-Release/releases/download/marketplace-v1/vpnrotate-1.0.0.zip",
+    "sha256": "d042a26230285c13a6368201e710238f4716e98cab28875e9c98b24631e2cfb8"
   }]
 }
