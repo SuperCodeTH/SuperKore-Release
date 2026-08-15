@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "updated": "2026-08-16T00:00:00Z",
+  "packages": [{
+    "id": "example-thai-server-patch",
+    "name": "แพตช์ OpenKore เซิร์ฟเวอร์ไทย",
+    "type": "server_patch",
+    "version": "0.1.0-preview",
+    "servers": ["เซิร์ฟเวอร์ตัวอย่าง"],
+    "description": "ตัวอย่างแพตช์แก้ packets และ tables สำหรับเซิร์ฟเวอร์เฉพาะ ขณะนี้ยังไม่พร้อมให้ดาวน์โหลด",
+    "available": false
+  }, {
+    "id": "example-kopilot-plugin",
+    "name": "Kopilot Plugin Pack",
+    "type": "plugin",
+    "version": "0.1.0-preview",
+    "servers": ["ทุกเซิร์ฟเวอร์"],
+    "description": "ตัวอย่างชุดปลั๊กอินเสริมสำหรับ SuperKore ขณะนี้ยังไม่พร้อมให้ดาวน์โหลด",
+    "available": false
+  }]
+}
